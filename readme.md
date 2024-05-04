@@ -1,3 +1,6 @@
+原作者：https://github.com/HaujetZhao/CapsWriter-Offline
+他还有很多好东西。
+
 ## CapsWriter-Offline
 
 ![image-20240108115946521](assets/image-20240108115946521.png)  
